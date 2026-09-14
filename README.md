@@ -9,6 +9,8 @@
 <!-- pyml disable-next-line no-trailing-punctuation -->
 ## Let's Gaudi it.
 
+**1CatAI内部正在审核代码，完整代码将在审核完毕后发布**
+
 ### 面向 Intel® Gaudi® 的现代大模型推理与原生执行优化
 
 <strong>Qwen · DeepSeek · FlashInfer-Gaudi · TPC / MME · Native Replay</strong>
